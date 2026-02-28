@@ -1,5 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* 覆盖你原本 index.css 里的所有内容，只保留这三行即可 */
+@import "tailwindcss";
